@@ -1,0 +1,10 @@
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\bin\Debug\PassaParola Oyunu.exe.config
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\bin\Debug\PassaParola Oyunu.exe
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\bin\Debug\PassaParola Oyunu.pdb
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\obj\Debug\PassaParola Oyunu.csproj.AssemblyReference.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\obj\Debug\PassaParola_Oyunu.Form1.resources
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\obj\Debug\PassaParola_Oyunu.Properties.Resources.resources
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\obj\Debug\PassaParola Oyunu.csproj.GenerateResource.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\obj\Debug\PassaParola Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\obj\Debug\PassaParola Oyunu.exe
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\PassaParola Oyunu\obj\Debug\PassaParola Oyunu.pdb

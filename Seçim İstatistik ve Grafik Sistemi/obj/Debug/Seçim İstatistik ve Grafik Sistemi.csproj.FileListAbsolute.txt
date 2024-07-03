@@ -1,0 +1,11 @@
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\bin\Debug\Seçim İstatistik ve Grafik Sistemi.exe.config
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\bin\Debug\Seçim İstatistik ve Grafik Sistemi.exe
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\bin\Debug\Seçim İstatistik ve Grafik Sistemi.pdb
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\obj\Debug\Seçim İstatistik ve Grafik Sistemi.csproj.AssemblyReference.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\obj\Debug\Seçim_İstatistik_ve_Grafik_Sistemi.Properties.Resources.resources
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\obj\Debug\Seçim İstatistik ve Grafik Sistemi.csproj.GenerateResource.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\obj\Debug\Seçim İstatistik ve Grafik Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\obj\Debug\Seçim İstatistik ve Grafik Sistemi.exe
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\obj\Debug\Seçim İstatistik ve Grafik Sistemi.pdb
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\obj\Debug\Seçim_İstatistik_ve_Grafik_Sistemi.FRMOYGİRİS.resources
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Seçim İstatistik ve Grafik Sistemi\Seçim İstatistik ve Grafik Sistemi\obj\Debug\Seçim_İstatistik_ve_Grafik_Sistemi.FRM_Grafikler.resources
